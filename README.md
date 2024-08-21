@@ -1,2 +1,2 @@
 # ds
-ds - all the data structures written in c
+ds - data structures, algorithms written in c
